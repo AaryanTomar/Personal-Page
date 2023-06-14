@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a High School student at Plano West
 
 ## Research Interests
 
@@ -14,9 +14,8 @@ I am a Ph.D. student at ...
 ## Hobbies
 
 - Guitar
-- Tennis
-- Swimming
+- Basketball
+- Video Games
 
 ## News
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+None :(
